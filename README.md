@@ -4,7 +4,6 @@ Sistem informasi berbasis web untuk memantau proses survei lapangan Izin Penggun
 
 Proses IPPT yang sebelumnya dicatat manual, mulai dari pemasukan berkas, penerbitan Surat Perintah Tugas (SPT), survei lapangan, sampai laporan hasil pemeriksaan, kini terdokumentasi dalam satu sistem. Pemohon juga bisa melacak status permohonannya sendiri tanpa datang ke kantor. Pengguna sistem: **Admin**, **Pegawai**, dan **Pemohon**.
 
-> Dikembangkan sebagai proyek Kerja Praktik, Program Studi Teknik Informatika, Universitas Bengkulu (2025).
 
 ## Fitur
 
@@ -66,8 +65,6 @@ npm run dev
 php artisan serve               # buka http://127.0.0.1:8000
 ```
 
-<!-- ISI jika ada: akun demo, mis. email/password admin dari seeder -->
-
 ## Alur Proses
 
 1. **Diterima**: Admin menginput permohonan dan sistem menerbitkan ID Pendaftaran.
@@ -80,4 +77,4 @@ php artisan serve               # buka http://127.0.0.1:8000
 
 
 Sophina Shafa Salsabila - [@ssophii](https://github.com/ssophii)
-Proyek pembelajaran/portofolio (Kerja Praktik).
+Proyek pembelajaran/portofolio (Kerja Praktik 2025).
